@@ -1,6 +1,10 @@
 # Julia-bin
 Julia execution binary storage.
 
+## Official binaries
+
+**https://julialang.org/downloads/**
+
 ## Usage
 
 **https://julialang.org/downloads/platform.html#generic-binaries**
