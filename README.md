@@ -5,5 +5,6 @@ Julia execution binary storage.
 
 **https://julialang.org/downloads/platform.html#generic-binaries**
 ```bash
-$ git clone 
+$ git clone https://github.com/PINTO0309/Julia-bin.git
+$ cd Julia-bin
 ```
